@@ -116,7 +116,7 @@ a:hover {
 
 #outer.wrapper {
   background-color: #ccac62;
-  background-image: url("https://i.postimg.cc/4dH0Z3HZ/dust-1536x2048.png");
+  background-image: url("https://raw.githubusercontent.com/coldtothetouchh/Cleradin-Medieval-AO3-Skin/refs/heads/main/dust-bg.png");
   background-size: contain;
   background-repeat: repeat;
   padding-top: 0;
@@ -127,7 +127,7 @@ a:hover {
 
 #main {
   background-color: #ccac62;
-  background-image: url("https://i.postimg.cc/4dH0Z3HZ/dust-1536x2048.png");
+  background-image: url("https://raw.githubusercontent.com/coldtothetouchh/Cleradin-Medieval-AO3-Skin/refs/heads/main/dust-bg.png");
   background-size: contain;
   background-repeat: repeat;
   color: #2a1a10;
@@ -135,13 +135,13 @@ a:hover {
 
 #inner.wrapper {
   background-color: #ccac62;
-  background-image: url("https://i.postimg.cc/4dH0Z3HZ/dust-1536x2048.png");
+  background-image: url("https://raw.githubusercontent.com/coldtothetouchh/Cleradin-Medieval-AO3-Skin/refs/heads/main/dust-bg.png");
   background-size: contain;
   background-repeat: repeat;
 }
 
 #header {
-  background-image: url("https://i.postimg.cc/W185NXry/cleradinart2markkrpg.jpg");
+  background-image: url("https://raw.githubusercontent.com/coldtothetouchh/Cleradin-Medieval-AO3-Skin/refs/heads/main/cleradin-art-by-markkrpg.jpg");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center 37px;
@@ -574,14 +574,14 @@ fieldset,
 fieldset dl dl,
 fieldset fieldset fieldset,
 fieldset fieldset dl dl {
-  background-image: url("https://i.postimg.cc/4dH0Z3HZ/dust-1536x2048.png");
+  background-image: url("https://raw.githubusercontent.com/coldtothetouchh/Cleradin-Medieval-AO3-Skin/refs/heads/main/dust-bg.png");
   background-size: contain;
   background-repeat: repeat;
 }
 
 form dl {
   background-color: #ccac62;
-  background-image: url("https://i.postimg.cc/4dH0Z3HZ/dust-1536x2048.png");
+  background-image: url("https://raw.githubusercontent.com/coldtothetouchh/Cleradin-Medieval-AO3-Skin/refs/heads/main/dust-bg.png");
   background-size: contain;
   background-repeat: repeat;
   border: 3px solid #7a1620;
@@ -615,7 +615,7 @@ option,
 #dashboard,
 #dashboard.own {
   background-color: #ccac62;
-  background-image: url("https://i.postimg.cc/4dH0Z3HZ/dust-1536x2048.png");
+  background-image: url("https://raw.githubusercontent.com/coldtothetouchh/Cleradin-Medieval-AO3-Skin/refs/heads/main/dust-bg.png");
   background-size: contain;
   background-repeat: repeat;
   color: #2a1a10;
@@ -742,11 +742,11 @@ ul.tags li.relationships a {
 li.blurb,
 .listbox li.blurb {
   background-color: #ccac62;
-  background-image: url("https://i.postimg.cc/4dH0Z3HZ/dust-1536x2048.png");
+  background-image: url("https://raw.githubusercontent.com/coldtothetouchh/Cleradin-Medieval-AO3-Skin/refs/heads/main/dust-bg.png");
   background-size: contain;
   background-repeat: repeat;
   border: 40px solid transparent;
-  border-image: url("https://i.postimg.cc/T1zCtT11/Red-Medieval-Border.png") 20% round;
+  border-image: url("https://raw.githubusercontent.com/coldtothetouchh/Cleradin-Medieval-AO3-Skin/refs/heads/main/Cleradin-Heart.png") 20% round;
   box-shadow: none;
   margin-bottom: 1em;
   padding: 0.5em 0.8em;
@@ -783,7 +783,7 @@ li.blurb dl.stats {
 .listbox,
 fieldset fieldset.listbox {
   background-color: #2a1a10;
-  background-image: url("https://i.postimg.cc/4dH0Z3HZ/dust-1536x2048.png");
+  background-image: url("https://raw.githubusercontent.com/coldtothetouchh/Cleradin-Medieval-AO3-Skin/refs/heads/main/dust-bg.png");
   background-size: contain;
   background-repeat: repeat;
   border: 2px solid #7a1620;
@@ -816,17 +816,17 @@ fieldset fieldset.listbox {
 
 li.comment {
   background-color: #ccac62;
-  background-image: url("https://i.postimg.cc/4dH0Z3HZ/dust-1536x2048.png");
+  background-image: url("https://raw.githubusercontent.com/coldtothetouchh/Cleradin-Medieval-AO3-Skin/refs/heads/main/dust-bg.png");
   background-size: contain;
   background-repeat: repeat;
   border: 30px solid transparent;
-  border-image: url("https://i.postimg.cc/T1zCtT11/Red-Medieval-Border.png") 20% round;
+  border-image: url("https://raw.githubusercontent.com/coldtothetouchh/Cleradin-Medieval-AO3-Skin/refs/heads/main/Red%20Medieval%20Border.png") 20% round;
   margin: 0.5em;
 }
 
 .comment h4.byline {
   background-color: #ccac62;
-  background-image: url("https://i.postimg.cc/4dH0Z3HZ/dust-1536x2048.png");
+  background-image: url("https://raw.githubusercontent.com/coldtothetouchh/Cleradin-Medieval-AO3-Skin/refs/heads/main/dust-bg.png");
   background-size: contain;
   background-repeat: repeat;
   border-radius: 0 8px 0 0;
@@ -854,7 +854,7 @@ li.comment {
 .comment .userstuff {
   font-family: 'IM Fell English', Georgia, serif;
   background-color: #ccac62;
-  background-image: url("https://i.postimg.cc/cHZY5wDJ/Cleradin-Heart.png"), url("https://i.postimg.cc/4dH0Z3HZ/dust-1536x2048.png");
+  background-image: url("https://raw.githubusercontent.com/coldtothetouchh/Cleradin-Medieval-AO3-Skin/refs/heads/main/dust-bg.png");
   background-position: right bottom, left top;
   background-repeat: no-repeat, repeat;
   background-size: 55px 55px, contain;
@@ -882,7 +882,7 @@ li.thread {
 
 .thread .even {
   background-color: #ccac62;
-  background-image: url("https://i.postimg.cc/4dH0Z3HZ/dust-1536x2048.png");
+  background-image: url("https://raw.githubusercontent.com/coldtothetouchh/Cleradin-Medieval-AO3-Skin/refs/heads/main/dust-bg.png");
   background-size: contain;
   background-repeat: repeat;
 }
@@ -890,9 +890,9 @@ li.thread {
 #workskin {
   text-align: justify;
   border: 60px solid transparent;
-  border-image: url("https://i.postimg.cc/T1zCtT11/Red-Medieval-Border.png") 25% round;
+  border-image: url("https://raw.githubusercontent.com/coldtothetouchh/Cleradin-Medieval-AO3-Skin/refs/heads/main/Red%20Medieval%20Border.png") 25% round;
   background-color: #ccac62;
-  background-image: url("https://i.postimg.cc/4dH0Z3HZ/dust-1536x2048.png");
+  background-image: url("https://raw.githubusercontent.com/coldtothetouchh/Cleradin-Medieval-AO3-Skin/refs/heads/main/dust-bg.png");
   background-size: contain;
   background-repeat: repeat;
   font-family: 'IM Fell English', Georgia, serif;
@@ -974,7 +974,7 @@ dl.work.meta.group {
   border: 3px solid #7a1620;
   padding: 1em;
   background-color: #ccac62;
-  background-image: url("https://i.postimg.cc/4dH0Z3HZ/dust-1536x2048.png");
+  background-image: url("https://raw.githubusercontent.com/coldtothetouchh/Cleradin-Medieval-AO3-Skin/refs/heads/main/dust-bg.png");
   background-size: contain;
   background-repeat: repeat;
   font-size: 90%;
@@ -1042,7 +1042,7 @@ p.kudos::before {
   transform: translateX(-50%);
   width: 180px;
   height: 180px;
-  background-image: url("https://i.postimg.cc/JntYtwLB/Will-s-Painting.png");
+  background-image: url("https://raw.githubusercontent.com/coldtothetouchh/Cleradin-Medieval-AO3-Skin/refs/heads/main/Wills-Painting.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: contain;
@@ -1087,7 +1087,7 @@ dd.kudos img,
   transform: translateX(-50%);
   width: 140px;
   height: 140px;
-  background-image: url("https://i.postimg.cc/JntYtwLB/Will-s-Painting.png");
+  background-image: url("https://raw.githubusercontent.com/coldtothetouchh/Cleradin-Medieval-AO3-Skin/refs/heads/main/Wills-Painting.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: contain;
@@ -1142,7 +1142,7 @@ dd.kudos img,
   right: 0;
   width: 36px;
   height: 36px;
-  background-image: url("https://i.postimg.cc/cHZY5wDJ/Cleradin-Heart.png");
+  background-image: url("https://raw.githubusercontent.com/coldtothetouchh/Cleradin-Medieval-AO3-Skin/refs/heads/main/Cleradin-Heart.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: contain;
@@ -1276,7 +1276,7 @@ div.dynamic,
 #ui-datepicker-div,
 .ui-datepicker table {
   background-color: #ccac62;
-  background-image: url("https://i.postimg.cc/4dH0Z3HZ/dust-1536x2048.png");
+  background-image: url("https://raw.githubusercontent.com/coldtothetouchh/Cleradin-Medieval-AO3-Skin/refs/heads/main/dust-bg.png");
   background-size: contain;
   background-repeat: repeat;
   border-color: #7a1620;
@@ -1302,7 +1302,7 @@ form blockquote.userstuff,
 .secondary form,
 .required .autocomplete {
   background-color: #ccac62;
-  background-image: url("https://i.postimg.cc/4dH0Z3HZ/dust-1536x2048.png");
+  background-image: url("https://raw.githubusercontent.com/coldtothetouchh/Cleradin-Medieval-AO3-Skin/refs/heads/main/dust-bg.png");
   background-size: contain;
   background-repeat: repeat;
 }
