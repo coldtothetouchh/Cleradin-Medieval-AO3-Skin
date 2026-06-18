@@ -19,3 +19,13 @@ In order to create a site skin, you need to have an AO3 account and you need to 
 9) On the site skin page, tap on the button labelled Use. You will now have this skin every time you're logged in on any device.
 
 <img width="1852" height="1344" alt="cleradin-art-by-markkrpg" src="https://github.com/user-attachments/assets/8ffd71cd-5f62-44f5-af1b-899c07815cb6" />
+
+<img width="828" height="1203" alt="2026-06-18 17 19 10" src="https://github.com/user-attachments/assets/f4932215-a616-4d1b-a30e-12c84642996f" />
+
+<img width="828" height="571" alt="2026-06-18 17 20 43" src="https://github.com/user-attachments/assets/4d22d374-4ae3-402e-a8ef-1270f1969739" />
+
+<img width="828" height="1169" alt="2026-06-18 17 19 42" src="https://github.com/user-attachments/assets/cc94d923-f99c-40b6-9951-4ddcb74bab55" />
+
+<img width="828" height="1426" alt="2026-06-18 17 19 56" src="https://github.com/user-attachments/assets/be32b700-09c5-4437-889f-37095a7f0cb7" />
+
+<img width="828" height="614" alt="2026-06-18 17 20 18" src="https://github.com/user-attachments/assets/162bf9a9-c72c-4d62-9639-c247a64e105d" />
