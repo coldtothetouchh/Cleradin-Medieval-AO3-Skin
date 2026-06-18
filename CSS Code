@@ -746,7 +746,7 @@ li.blurb,
   background-size: contain;
   background-repeat: repeat;
   border: 40px solid transparent;
-  border-image: url("https://raw.githubusercontent.com/coldtothetouchh/Cleradin-Medieval-AO3-Skin/refs/heads/main/Red%20Medieval%20Border.png") 20% round;
+  border-image: url("https://raw.githubusercontent.com/coldtothetouchh/Cleradin-Medieval-AO3-Skin/refs/heads/main/Red-Medieval-Border.png") 20% round;
   box-shadow: none;
   margin-bottom: 1em;
   padding: 0.5em 0.8em;
@@ -820,7 +820,7 @@ li.comment {
   background-size: contain;
   background-repeat: repeat;
   border: 30px solid transparent;
-  border-image: url("https://raw.githubusercontent.com/coldtothetouchh/Cleradin-Medieval-AO3-Skin/refs/heads/main/Red%20Medieval%20Border.png") 20% round;
+  border-image: url("https://raw.githubusercontent.com/coldtothetouchh/Cleradin-Medieval-AO3-Skin/refs/heads/main/Red-Medieval-Border.png") 20% round;
   margin: 0.5em;
 }
 
@@ -890,7 +890,7 @@ li.thread {
 #workskin {
   text-align: justify;
   border: 60px solid transparent;
-  border-image: url("https://raw.githubusercontent.com/coldtothetouchh/Cleradin-Medieval-AO3-Skin/refs/heads/main/Red%20Medieval%20Border.png") 25% round;
+  border-image: url("https://raw.githubusercontent.com/coldtothetouchh/Cleradin-Medieval-AO3-Skin/refs/heads/main/Red-Medieval-Border.png") 25% round;
   background-color: #ccac62;
   background-image: url("https://raw.githubusercontent.com/coldtothetouchh/Cleradin-Medieval-AO3-Skin/refs/heads/main/dust-bg.png");
   background-size: contain;
