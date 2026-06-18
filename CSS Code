@@ -746,7 +746,7 @@ li.blurb,
   background-size: contain;
   background-repeat: repeat;
   border: 40px solid transparent;
-  border-image: url("https://raw.githubusercontent.com/coldtothetouchh/Cleradin-Medieval-AO3-Skin/refs/heads/main/Cleradin-Heart.png") 20% round;
+  border-image: url("https://raw.githubusercontent.com/coldtothetouchh/Cleradin-Medieval-AO3-Skin/refs/heads/main/Red%20Medieval%20Border.png") 20% round;
   box-shadow: none;
   margin-bottom: 1em;
   padding: 0.5em 0.8em;
@@ -854,7 +854,7 @@ li.comment {
 .comment .userstuff {
   font-family: 'IM Fell English', Georgia, serif;
   background-color: #ccac62;
-  background-image: url("https://raw.githubusercontent.com/coldtothetouchh/Cleradin-Medieval-AO3-Skin/refs/heads/main/dust-bg.png");
+  background-image: url("https://raw.githubusercontent.com/coldtothetouchh/Cleradin-Medieval-AO3-Skin/refs/heads/main/Cleradin-Heart.png"), url("https://raw.githubusercontent.com/coldtothetouchh/Cleradin-Medieval-AO3-Skin/refs/heads/main/dust-bg.png");
   background-position: right bottom, left top;
   background-repeat: no-repeat, repeat;
   background-size: 55px 55px, contain;
